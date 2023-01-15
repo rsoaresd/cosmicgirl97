@@ -25,6 +25,11 @@ I'm Rafaela from Braga, Portugal!
 - Previously: Software Developer at Checkmarx (worked on [KICS](https://github.com/Checkmarx/kics): check my work [here](https://github.com/rafaela-soares))
 
 
-### Academic path
+### About my academic path
 
 Integrated Master's degree, Software Engineering at Universidade do Minho
+
+
+### How to find me
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/rafaela-s-3632a5b2/)](https://www.linkedin.com/in/rafaela-s-3632a5b2/) [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/rafaelamss97)](https://twitter.com/rafaelamss97)
