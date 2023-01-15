@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hellooooo 👋
 
 <!--
 **cosmicgirl97/cosmicgirl97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+I'm Rafaela from Braga, Portugal!
+
+### About my journey
+
+- Currently: Associate Software Quality Engineer at Red Hat (working on [AppStudio](https://github.com/redhat-appstudio): check my work [here](https://github.com/rsoaresd))
+- Previously: Software Developer at Checkmarx (worked on [KICS](https://github.com/Checkmarx/kics): check my work [here](https://github.com/rafaela-soares))
