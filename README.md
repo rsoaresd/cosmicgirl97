@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-I'm Rafaela from Braga, Portugal!
+I'm Rafaela from Braga, Portugal! 🇵🇹
 
 ### About my journey
 
